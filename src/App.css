@@ -1,0 +1,7 @@
+.portfolio-item img{
+    min-width: 215px;
+    min-height: 130px;
+}
+i.fa.fa-medium:after {
+    content: "M";
+}
